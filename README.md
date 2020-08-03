@@ -3,4 +3,4 @@
 
 ## Agosto
 ### Semana 1
-- [Lapiseira e Grafite](03-08-2020 - Lapiseira e Grafite/Readme.md)
+- [Lapiseira e Grafite](lapiseira-e-grafite/README.md)
